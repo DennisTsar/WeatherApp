@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="sunny">\"There\'s 104 days of summer vacation\"</string>
+    <string name="snow">\"Snow-cones for everyone\"</string>
+</resources>
